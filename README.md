@@ -7,6 +7,7 @@ Repositorio con el archivo **universe.sql** el cual contiene la base de datos co
 - [Build a Celestial Bodies Database](#build-a-celestial-bodies-database)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Instrucciones](#instrucciones)
+  - [Proyecto Aprobado](#proyecto-aprobado)
   - [All Test Passed](#all-test-passed)
 
 ## Instrucciones
@@ -60,6 +61,10 @@ El proyecto consiste en realizar lo siguiente:
 - Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 
 - Each foreign key column should have the same name as the column it is referencing
+
+## Proyecto Aprobado
+
+![Proyecto aprobado](./approved.webp)
 
 ## All Test Passed
 
