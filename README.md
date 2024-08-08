@@ -2,6 +2,8 @@
 
 Repositorio con el archivo **universe.sql** el cual contiene la base de datos con la que aprobé el primer proyecto requisito obligatorio para obtener la [Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/) de freecodecamp.
 
+Como el objetivo del proyecto no es aprender astronomía sino estructurar una base de datos usando PostgreSQL, he utilizado nombres de columnas y data en tablas del tipo genérico o placeholder las cuales bien pueden ser reemplazadas por términos significativos en una aplicación real.
+
 ## Tabla de Contenidos
 
 - [Build a Celestial Bodies Database](#build-a-celestial-bodies-database)
